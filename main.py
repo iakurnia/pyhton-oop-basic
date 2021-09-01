@@ -1,5 +1,5 @@
-from geomeri.persegiPanjang import PersegiPanjang
-from geomeri.segitiga import Segitiga
+from geomeriEncapsulasi.persegiPanjang import PersegiPanjang
+from geomeriEncapsulasi.segitiga import Segitiga
 
 print('---'*10)
 print('Program Pyhton OOP Basic')
